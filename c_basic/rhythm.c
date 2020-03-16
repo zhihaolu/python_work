@@ -1,5 +1,4 @@
 #include <stdio.h>
-// #include "Leap_year_sum.c"
 
 void about_intelligence(int x1, int y1, int z1, int x2, int y2, int z2, int n);
 void about_power(int x1, int y1, int z1, int x2, int y2, int z2, int n);
@@ -7,13 +6,13 @@ void about_mood(int x1, int y1, int z1, int x2, int y2, int z2, int n);
 int leapyear_num(int year_start, int year_finally);
 
 int main() {
-    int year1, year2, moon1, moon2, day1, day2, n;  // n为闰年数
+    int year1, year2, moon1, moon2, day1, day2;  // n为闰年数
 
-    printf("请输入你的出生年月日（如：2000，1，1)：");
+    printf("请输入你的出生年月日（如：2000,1,1 (请使用英文输入法输入))：");
     scanf("%d,%d,%d", &year1, &moon1, &day1);
     printf("请输入你想测的日期（格式同上）：");
     scanf("%d,%d,%d", &year2, &moon2, &day2);
-    n = leapyear_num(year1, year2);
+    int n = leapyear_num(year1, year2);
     printf("n = %d\n", n);
     printf("这天是：\n");
     about_intelligence(year1, moon1, day1, year2, moon2, day2, n);
@@ -56,7 +55,7 @@ void about_mood(int x1, int y1, int z1, int x2, int y2, int z2, int n) {
     int num, sum;
     sum = (x2 - x1) * 365 + n - (y1 * 30 + z1) + (y2 * 30 + z2);
     num = sum % 28;
-    printf("%d",num);
+    // printf("%d",num);
     if (num == 0)
         printf("情绪周期日");
     else if (num < 14)
