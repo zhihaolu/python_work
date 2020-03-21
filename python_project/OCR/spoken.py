@@ -9,11 +9,12 @@ client = AipSpeech(APP_ID, API_KEY, SECRET_KEY)
 
 def _spoken(words):
     result  = client.synthesis(words, 'zh', 1, {
-        'vol': 5, 'per': 3
+        'vol': 7, 'per': 4
     })
     try:
-        with open('Auido1.mp3', 'wb') as f:
+        with open('Auido2.mp3', 'wb') as f:
             f.write(result)
+        
     except:
         print('语音朗读出错！')
 

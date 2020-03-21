@@ -17,7 +17,7 @@ def use_ocr(img):
         print("图片格式不对，识别失败！")
 
 def ocr_words():
-    with open('test1.png', 'rb') as f:
+    with open('xkx.png', 'rb') as f:
         img = f.read()
     return use_ocr(img)
 
