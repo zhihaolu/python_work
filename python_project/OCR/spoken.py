@@ -9,7 +9,7 @@ client = AipSpeech(APP_ID, API_KEY, SECRET_KEY)
 
 def _spoken(words):
     result  = client.synthesis(words, 'zh', 1, {
-        'vol': 7, 'per': 4
+        'vol': 3, 'spd':2, 'per': 3
     })
     try:
         with open('Auido2.mp3', 'wb') as f:

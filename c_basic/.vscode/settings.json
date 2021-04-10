@@ -1,0 +1,8 @@
+{
+    "files.associations": {
+        "stdlib.h": "c",
+        "array": "cpp",
+        "string": "cpp",
+        "string_view": "cpp"
+    }
+}
