@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "tX1fRT4ur6X52kMO1m07P2jrgvt0hEUW68/iGFhaIc6sQ/Z44Ipp/57z9Kr8stLLNr2mMjIN8JfoVO+m15KDQA==",
+  "success": true,
+  "projectFilePath": "D:\\code\\ASP_NET_Core_Learn\\RazorPagesMovie\\RazorPagesMovie.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\林空\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\5.0.0\\microsoft.aspnetcore.app.ref.5.0.0.nupkg.sha512",
+    "C:\\Users\\林空\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\5.0.0\\microsoft.windowsdesktop.app.ref.5.0.0.nupkg.sha512",
+    "C:\\Users\\林空\\.nuget\\packages\\microsoft.netcore.app.ref\\5.0.0\\microsoft.netcore.app.ref.5.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}
