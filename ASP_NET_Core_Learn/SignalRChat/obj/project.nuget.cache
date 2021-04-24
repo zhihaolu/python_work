@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "G9bCf4KeHfBaQduxPOtXrzIw0X/I7xR6EGX0NdPx/W8FP+oEk7pxzAkIEZ8PQq0Pg28B3FxqNrbAbxI77oTzsQ==",
+  "success": true,
+  "projectFilePath": "D:\\code\\ASP_NET_Core_Learn\\SignalRChat\\SignalRChat.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\林空\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\3.1.10\\microsoft.aspnetcore.app.ref.3.1.10.nupkg.sha512",
+    "C:\\Users\\林空\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\3.1.0\\microsoft.windowsdesktop.app.ref.3.1.0.nupkg.sha512",
+    "C:\\Users\\林空\\.nuget\\packages\\microsoft.netcore.app.ref\\3.1.0\\microsoft.netcore.app.ref.3.1.0.nupkg.sha512"
+  ],
+  "logs": []
+}
