@@ -1,0 +1,7 @@
+D:\code\C_sharp\test5_1\bin\Debug\test5_1.exe.config
+D:\code\C_sharp\test5_1\bin\Debug\test5_1.exe
+D:\code\C_sharp\test5_1\bin\Debug\test5_1.pdb
+D:\code\C_sharp\test5_1\obj\Debug\test5_1.csprojAssemblyReference.cache
+D:\code\C_sharp\test5_1\obj\Debug\test5_1.csproj.CoreCompileInputs.cache
+D:\code\C_sharp\test5_1\obj\Debug\test5_1.exe
+D:\code\C_sharp\test5_1\obj\Debug\test5_1.pdb

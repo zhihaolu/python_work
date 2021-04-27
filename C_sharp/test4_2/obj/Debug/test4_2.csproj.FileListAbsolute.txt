@@ -1,0 +1,7 @@
+D:\code\C_sharp\test4_2\obj\Debug\test4_2.csprojAssemblyReference.cache
+D:\code\C_sharp\test4_2\obj\Debug\test4_2.csproj.CoreCompileInputs.cache
+D:\code\C_sharp\test4_2\bin\Debug\test4_2.exe.config
+D:\code\C_sharp\test4_2\bin\Debug\test4_2.exe
+D:\code\C_sharp\test4_2\bin\Debug\test4_2.pdb
+D:\code\C_sharp\test4_2\obj\Debug\test4_2.exe
+D:\code\C_sharp\test4_2\obj\Debug\test4_2.pdb

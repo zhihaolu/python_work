@@ -1,0 +1,6 @@
+D:\code\C_sharp\test2_3\bin\Debug\test2_3.exe.config
+D:\code\C_sharp\test2_3\bin\Debug\test2_3.exe
+D:\code\C_sharp\test2_3\bin\Debug\test2_3.pdb
+D:\code\C_sharp\test2_3\obj\Debug\test2_3.csproj.CoreCompileInputs.cache
+D:\code\C_sharp\test2_3\obj\Debug\test2_3.exe
+D:\code\C_sharp\test2_3\obj\Debug\test2_3.pdb
