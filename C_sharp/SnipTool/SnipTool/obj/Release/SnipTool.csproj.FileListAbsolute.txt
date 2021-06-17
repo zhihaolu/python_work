@@ -1,0 +1,10 @@
+D:\code\C_sharp\SnipTool\SnipTool\bin\Release\SnipTool.exe.config
+D:\code\C_sharp\SnipTool\SnipTool\bin\Release\SnipTool.exe
+D:\code\C_sharp\SnipTool\SnipTool\bin\Release\SnipTool.pdb
+D:\code\C_sharp\SnipTool\SnipTool\obj\Release\SnipTool.csproj.AssemblyReference.cache
+D:\code\C_sharp\SnipTool\SnipTool\obj\Release\SnipTool.Form1.resources
+D:\code\C_sharp\SnipTool\SnipTool\obj\Release\SnipTool.Properties.Resources.resources
+D:\code\C_sharp\SnipTool\SnipTool\obj\Release\SnipTool.csproj.GenerateResource.cache
+D:\code\C_sharp\SnipTool\SnipTool\obj\Release\SnipTool.csproj.CoreCompileInputs.cache
+D:\code\C_sharp\SnipTool\SnipTool\obj\Release\SnipTool.exe
+D:\code\C_sharp\SnipTool\SnipTool\obj\Release\SnipTool.pdb
